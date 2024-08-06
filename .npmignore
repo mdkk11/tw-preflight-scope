@@ -1,0 +1,6 @@
+src/
+package-lock.json
+.gitignore
+jest.config.js
+tsconfig.cjs.json
+tsconfig.esm.json
